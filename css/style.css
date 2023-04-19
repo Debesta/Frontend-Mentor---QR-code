@@ -27,6 +27,7 @@ body {
   flex-direction: column;
   width: 300px;
   border-radius: 15px;
+  box-shadow: 0 0 20px rgb(204, 204, 204);
   text-align: center;
   background-color: hsl(0, 0%, 100%);
 }
